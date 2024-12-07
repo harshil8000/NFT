@@ -100,7 +100,6 @@ export const Introduction = () => {
           </p>
         </div>
       </div>
-
       <div
         className={`lg:hidden block fixed top-0 right-0 h-full w-full bg-white dark:bg-dark shadow-lg transform transition-transform duration-300 max-w-xs ${
           docNavbarOpen ? "translate-x-0" : "translate-x-full"

@@ -7,6 +7,7 @@ export const footerlabels: { label: string; herf: string }[] = [
   { label: "Latest News", herf: "#" },
 ];
 
+
 export const pricedeta: {
   title: string;
   short: string;

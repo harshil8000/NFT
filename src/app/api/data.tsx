@@ -8,6 +8,7 @@ export const footerlabels: { label: string; herf: string }[] = [
 ];
 
 
+
 export const pricedeta: {
   title: string;
   short: string;

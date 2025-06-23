@@ -7,7 +7,7 @@ export const DocNavigation = () => {
 
   function getNavItem(item: string) {
     setNavItem(item);
-  }
+  } 
 
   useEffect(() => {
     console.log(navItem);
